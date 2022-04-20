@@ -1,0 +1,65 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* ------ Add your CSS below this line (or @import your other CSS files). ------- */
+
+@font-face {
+	font-family: 'editorial_newultralight';
+	src: url('../assets/webfont/editorialnew-ultralight-webfont.woff2') format('woff2'),
+		 url('../assets/webfont/editorialnew-ultralight-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Archivo';
+	src: url('../assets/webfont/Archivo-Black.woff2') format('woff2'),
+		url('../assets/webfont/Archivo-Black.woff') format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+.rounded {
+	position: relative;
+	display: inline-block;
+}
+
+@keyframes tickerltr {
+	0% {
+		transform: translate3d(0, 0, 0);
+		visibility: visible;
+	}
+	100% {
+		transform: translate3d(-100%, 0, 0);
+	}
+}
+
+@keyframes tickerrtl {
+	0% {
+		transform: translate3d(-100%, 0, 0);
+		visibility: visible;
+	}
+	100% {
+		transform: translate3d(0, 0, 0);
+	}
+}
+
+.ticker-ltr {
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-name: tickerltr;
+	animation-duration: 30s;
+}
+
+.ticker-rtl {
+	animation-iteration-count: infinite;
+	animation-timing-function: linear;
+	animation-name: tickerrtl;
+	animation-duration: 30s;
+}
+
+html {
+	scroll-behavior: smooth;
+}
