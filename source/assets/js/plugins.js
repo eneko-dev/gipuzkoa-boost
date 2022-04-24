@@ -1,0 +1,1 @@
+// @codekit-prepend "../../../node_modules/@splidejs/splide/dist/js/splide.js", "../../../node_modules/@splidejs/splide-extension-auto-scroll/dist/js/splide-extension-auto-scroll.js";

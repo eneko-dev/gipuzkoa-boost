@@ -1,2 +1,2 @@
-AOS.init(),$(document).ready((function(){$("a").on("click",(function(t){if(""!==this.hash){t.preventDefault();var n=this.hash;$("html, body").animate({scrollTop:$(n).offset().top},800,(function(){window.location.hash=n}))}}))}));
+AOS.init(),new Splide(".splide",{type:"loop",drag:"free",focus:"center",autoWidth:!0,arrows:!1,pagination:!1,autoScroll:{pauseOnHover:!1,pauseOnFocus:!1}}).mount(window.splide.Extensions),$(document).ready((function(){$("a").on("click",(function(o){if(""!==this.hash){o.preventDefault();var n=this.hash;$("html, body").animate({scrollTop:$(n).offset().top},800,(function(){window.location.hash=n}))}}))}));
 //# sourceMappingURL=main.js.map

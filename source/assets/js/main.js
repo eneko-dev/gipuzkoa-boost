@@ -1,5 +1,21 @@
 AOS.init();
 
+
+new Splide( '.splide', {
+	type   		: 'loop',
+	drag   		: 'free',
+	focus  		: 'center',
+	//perPage		: 5,
+	autoWidth	: true,
+	arrows		: false,
+	pagination	: false,
+	autoScroll: {
+		pauseOnHover: false,
+		pauseOnFocus: false,
+	}
+} ).mount( window.splide.Extensions );
+
+
 $(document).ready(function(){
   // Add smooth scrolling to all links
   $("a").on('click', function(event) {

@@ -2,6 +2,8 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+@import "splide.min.css";
+
 /* ------ Add your CSS below this line (or @import your other CSS files). ------- */
 
 @font-face {

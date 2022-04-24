@@ -9,14 +9,6 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/.nova\/Configuration.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/build\/.nova\/Configuration.json",
-      "oF" : 0,
-      "oO" : 1,
-      "oS" : 1
-    },
     "\/build" : {
       "ft" : 65536,
       "oA" : 1,
@@ -65,6 +57,149 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-1.jpg" : {
+      "ft" : 16384,
+      "iS" : 1278654,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-2.jpg" : {
+      "ft" : 16384,
+      "iS" : 1032747,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-3.jpg" : {
+      "ft" : 16384,
+      "iS" : 1256686,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-4.jpg" : {
+      "ft" : 16384,
+      "iS" : 1284395,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-5.jpg" : {
+      "ft" : 16384,
+      "iS" : 1852644,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-6.jpg" : {
+      "ft" : 16384,
+      "iS" : 980319,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-7.jpg" : {
+      "ft" : 16384,
+      "iS" : 1587512,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-8.jpg" : {
+      "ft" : 16384,
+      "iS" : 1339517,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-9.jpg" : {
+      "ft" : 16384,
+      "iS" : 1100249,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-10.jpg" : {
+      "ft" : 16384,
+      "iS" : 1143196,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/source\/assets\/img\/boost-slide-11.jpg" : {
+      "ft" : 16384,
+      "iS" : 1454714,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/img\/boost-slide-11.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -225,6 +360,94 @@
       "oAP" : "\/build\/assets\/video\/boost-hero.mp4",
       "oF" : 0
     },
+    "\/source\/assets\/video\/boost-slide-1.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-1.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-2.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-2.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-3.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-3.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-4.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-4.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-5.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-5.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-6.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-6.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-7.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-7.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-8.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-8.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-9.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-9.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-10.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-10.mp4",
+      "oF" : 0
+    },
+    "\/source\/assets\/video\/boost-slide-11.mp4" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/video\/boost-slide-11.mp4",
+      "oF" : 0
+    },
     "\/source\/assets\/webfont\/Archivo-Black.woff" : {
       "cB" : 0,
       "ft" : 8192,
@@ -267,6 +490,18 @@
       "oA" : 0,
       "oAP" : "\/build\/css\/main.css",
       "oF" : 1,
+      "pg" : 0
+    },
+    "\/source\/css\/splide.min.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 1,
+      "co" : 2,
+      "ft" : 16,
+      "ma" : 3,
+      "oA" : 1,
+      "oAP" : "\/build\/css\/splide.min.css",
+      "oF" : 0,
       "pg" : 0
     },
     "\/source\/favicon-16x16.png" : {
@@ -348,7 +583,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/source\/logo.jpg",
     "iconImageWasSetByUser" : 1,
-    "lastBuiltDate" : 672075551.38603902
+    "lastBuiltDate" : 672428396.01957297
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
