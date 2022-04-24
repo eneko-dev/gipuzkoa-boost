@@ -1,5 +1,20 @@
 AOS.init();
 
+const player = new Plyr('#player');
+
+
+
+$('.inline-popup').magnificPopup({
+  type: 'inline',
+  callbacks: {
+	  open: function() {
+		  player.play();;
+	  },
+	  close: function() {
+		  player.stop();
+	  }
+  }
+});
 
 new Splide( '.splide', {
 	type   		: 'loop',

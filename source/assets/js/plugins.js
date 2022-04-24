@@ -1,1 +1,1 @@
-// @codekit-prepend "../../../node_modules/@splidejs/splide/dist/js/splide.js", "../../../node_modules/@splidejs/splide-extension-auto-scroll/dist/js/splide-extension-auto-scroll.js";
+// @codekit-prepend "../../../node_modules/@splidejs/splide/dist/js/splide.js", "../../../node_modules/@splidejs/splide-extension-auto-scroll/dist/js/splide-extension-auto-scroll.js", "../../../node_modules/magnific-popup/dist/jquery.magnific-popup.min.js", "../../../node_modules/plyr/dist/plyr.min.js";
